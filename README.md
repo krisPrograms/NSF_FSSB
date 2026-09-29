@@ -1,7 +1,7 @@
-Formal Analysis of Stochastic Models in Systems Biology Under Uncertainty.\
+### Formal Analysis of Stochastic Models in Systems Biology Under Uncertainty.
 This site contains links to the products from the project NSF CCF 2227898.   
 
-If you use this software, please cite it as below.
+The results of the project are below.  Please cite if you use any of the products.
 
 1. H.Sparks and K.Ghosh. Statistical Inference and Temporal Logics on Pathway Models Using Interval Discrete-Time Markov Chain.
    
@@ -15,7 +15,7 @@ If you use this software, please cite it as below.
   organization={Springer}
 }
 ```
-Visit the repository at <https://github.com/krisPrograms/NSF_FSSB_SIMC_IDTMC>  
+Visit the repository for data, code and results at <https://github.com/krisPrograms/NSF_FSSB_SIMC_IDTMC>  
 
 
 2. K.Ghosh and J.Ball. Bounded Model Checking for Calibration of Systems Biology Models Under Uncertainty
@@ -30,7 +30,7 @@ Visit the repository at <https://github.com/krisPrograms/NSF_FSSB_SIMC_IDTMC>
   organization={Springer}
 }
 ```
-Visit the repository at <https://github.com/krisPrograms/NSS_FSSB_MS_BMC>
+Visit the repository for data, code and results at <https://github.com/krisPrograms/NSS_FSSB_MS_BMC>
 
 3. Statistical Inference and Probabilistic Model Checking on Uncertain Continuous-Time Markov Chains Representing Biochemical Pathways
 
@@ -44,4 +44,4 @@ Visit the repository at <https://github.com/krisPrograms/NSS_FSSB_MS_BMC>
 }
 ```
 
-Visit the repository at <https://github.com/krisPrograms/NSF_FSSB_SIMC_UCTMC>  
+Visit the repository for data, code and results at <https://github.com/krisPrograms/NSF_FSSB_SIMC_UCTMC>  
